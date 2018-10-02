@@ -3,12 +3,12 @@ module.exports = {
   description: 'Documentation for www.ohiohospitals.org',
   serviceWorker: true,
   themeConfig: {
-    repo: 'Ohio-Hospital-Association/ohiohospitals.org',
-    editLinks: true,
+    // repo: 'Ohio-Hospital-Association/ohiohospitals.org',
+    // editLinks: true,
     docsDir: 'docs',
     label: 'English',
     // selectText: 'Languages',
-    editLinkText: 'Edit this page',
+    // editLinkText: 'Edit this page',
     lastUpdated: 'Last Updated',
     searchMaxSuggestions: 15,
     serviceWorker: {

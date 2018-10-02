@@ -1,4 +1,4 @@
-# HIIN C Page
+# HIIN C Page <Badge text="Under Construction" type="warn"/>
 
 ## Overview
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem aliquam reprehenderit delectus eos soluta facere excepturi inventore provident impedit quod nemo qui explicabo, earum, ipsum deserunt. Sapiente illum expedita magnam.

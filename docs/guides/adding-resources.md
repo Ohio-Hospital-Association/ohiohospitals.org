@@ -1,4 +1,4 @@
-# Adding Documents/Resources
+# Adding Documents/Resources <Badge text="Under Construction" type="warn"/>
 
 ## Add a Document to the Media Library
 

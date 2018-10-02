@@ -1,4 +1,4 @@
-# Primary Landing Page
+# Primary Landing Page <Badge text="Under Construction" type="warn"/>
 
 [[toc]]
 
@@ -18,8 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem aliquam repreh
 ```
 
 ## Feature
-
-The feature is the main section at the top of the primary landing page. Only one feature can be displayed on the page, but the Feature folder can contain multiple
+<Feature-Description />
 
 ### Add a Feature
 <Feature-Add />

@@ -1,7 +1,10 @@
 <template>
   <div>
     <p>
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit eum nihil dolor odio doloribus nisi labore eos blanditiis tempora ad, deleniti voluptatum. Ipsa, voluptatum ipsum debitis officiis optio minima delectus.
+      To add a resource, first make sure the page you're editing has a subfolder named <code>Resource</code>. 
+      If not, right click on the current page in the content directory, and select <code>New > Folder</code>. 
+      To add the new resource, right click on the <code>Feature</code> folder, and select <code>New > OHA Resource</code>,
+      as shown below.
     </p>
   </div>
 </template>
