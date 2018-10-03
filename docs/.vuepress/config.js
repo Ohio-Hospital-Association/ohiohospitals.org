@@ -83,7 +83,7 @@ module.exports = {
           'adding-page',
           'converting-page',
           'page-metadata',
-          'editing-content',
+          // 'editing-content',
           'adding-contacts',
           'adding-images',
           'adding-resources'
