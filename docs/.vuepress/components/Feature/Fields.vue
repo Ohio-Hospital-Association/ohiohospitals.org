@@ -32,7 +32,7 @@
       <dd>
         The image that appears opposite the text. For more information about adding an
         image to the media library, <a :href="$withBase('/guides/adding-images.html')">
-        see here</a>.
+        click here</a>.
       </dd>
       <dt>
         <h4>YouTube Embed</h4>        

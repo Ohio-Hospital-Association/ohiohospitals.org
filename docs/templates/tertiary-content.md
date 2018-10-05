@@ -1,4 +1,4 @@
-# Tertiary A Page <Badge text="Under Construction" type="warn"/>
+# Tertiary Content Page <Badge text="Under Construction" type="warn"/>
 
 [[toc]]
 
